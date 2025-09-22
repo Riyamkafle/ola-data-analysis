@@ -1,27 +1,42 @@
-📊 Ola Data Analysis Project
+# 🚖 OLA Data Insights – Power BI, SQL & Excel  
 
-This project focuses on analyzing Ola ride data using different tools and techniques.
+## 📌 Project Overview  
+This project analyzes **Ola ride booking data** using **Excel, SQL, and Power BI**.  
+The goal is to uncover insights about customer behavior, ride patterns, cancellations, and overall business performance.  
 
-🧠 Tools Used
+## 📂 Repository Contents  
+- **Excel File** → Raw dataset with booking details.  
+- **SQL File** → Queries to explore ride data (e.g., successful rides, top customers, cancellations, ratings).  
+- **Power BI Dashboard (.pbix)** → Interactive visualizations and insights.  
 
-Microsoft Excel – for data cleaning, preprocessing, and basic analysis
+## 🔑 Key Insights & Analysis  
+### SQL Queries  
+- Successful bookings retrieval  
+- Average ride distance by vehicle type  
+- Top 5 customers by number of rides  
+- Cancellation reasons (customer vs. driver)  
+- Ratings distribution & min/max ratings  
+- Total booking value for completed rides  
 
-SQL – for querying and analyzing structured data
+### Power BI Dashboards  
+- Ride volume over time  
+- Booking status breakdown  
+- Top vehicle types by ride distance  
+- Average customer ratings by vehicle type  
+- Cancellation reasons analysis  
+- Revenue by payment method  
+- Top 5 customers by total booking value  
+- Customer vs. Driver ratings comparison  
 
-Microsoft Power BI (Coming soon) – for interactive dashboards and visual insights
+## 🛠 Tools Used  
+- **Excel** → Data preparation  
+- **SQL** → Data exploration & queries  
+- **Power BI** → Dashboard & visualization  
 
-🚀 How to Use
+## 📸 Preview   
+  
 
-Download or clone this repository.
-
-Open the .xlsx file to explore the cleaned dataset.
-
-Use the .sql file in any SQL editor or database to run the queries.
-
-(When available) Open the .pbix file in Power BI Desktop to view the dashboards.
-
-📌 Status
-
-✅ Excel Analysis Completed
-✅ SQL Queries Completed
-🔜 Power BI Dashboard – Coming Soon
+## 🚀 How to Use  
+1. Clone the repo: https://github.com/Riyamkafle/ola-data-analysis
+   ```bash
+   git clone https://github.com/your-username/ola-data-insights.git
